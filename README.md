@@ -5,4 +5,4 @@
   * Identified our 10 biggest customers by revenue. Recommended to the CEO and CMO to retain the patronage of our most loyal customers in the expansion.
   * Created a world map with countries shaded on the number of units sold. Identified Western Europe to be the most viable target for our expansion.
  
-* Tableau was used as the data visualization software for this project. 
+
