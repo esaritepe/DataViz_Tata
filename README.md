@@ -1,5 +1,5 @@
 # Data Visualization - Virtual Internship with Tata Group
-* Tasked with analyzing the company's sales data to deliver insights on their expansion strategies
+### Tasked with analyzing the company's sales data to deliver insights on their expansion strategies
   
   <p align="center">
     <img src="https://github.com/esaritepe/DataViz_Tata/blob/main/Tableau%20-%20Question%201.png"/>
