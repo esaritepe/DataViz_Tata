@@ -2,7 +2,7 @@
 * Tasked with analyzing the company's sales data to deliver insights on their expansion strategies
   
   <p align="center">
-    <img src="https://github.com/esaritepe/DataViz_Tata/blob/main/Tableau%20-%20Question%201.png" width=1000/>
+    <img src="https://github.com/esaritepe/DataViz_Tata/blob/main/Tableau%20-%20Question%201.png"/>
   </p>
   
   * Discovered that the fall months (September, October, November) had the most sales in the year 2011. Advised the CEO and CMO to time the expansion around the holiday season for maximum exposure.
